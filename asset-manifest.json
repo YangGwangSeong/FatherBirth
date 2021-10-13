@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/FatherBirth/static/css/main.7c2a6778.chunk.css",
-    "main.js": "/FatherBirth/static/js/main.c313ee81.chunk.js",
-    "main.js.map": "/FatherBirth/static/js/main.c313ee81.chunk.js.map",
+    "main.js": "/FatherBirth/static/js/main.f6e6ec92.chunk.js",
+    "main.js.map": "/FatherBirth/static/js/main.f6e6ec92.chunk.js.map",
     "runtime-main.js": "/FatherBirth/static/js/runtime-main.41607f62.js",
     "runtime-main.js.map": "/FatherBirth/static/js/runtime-main.41607f62.js.map",
-    "static/js/2.031dedb3.chunk.js": "/FatherBirth/static/js/2.031dedb3.chunk.js",
-    "static/js/2.031dedb3.chunk.js.map": "/FatherBirth/static/js/2.031dedb3.chunk.js.map",
+    "static/js/2.083a0385.chunk.js": "/FatherBirth/static/js/2.083a0385.chunk.js",
+    "static/js/2.083a0385.chunk.js.map": "/FatherBirth/static/js/2.083a0385.chunk.js.map",
     "static/js/3.0363e1c9.chunk.js": "/FatherBirth/static/js/3.0363e1c9.chunk.js",
     "static/js/3.0363e1c9.chunk.js.map": "/FatherBirth/static/js/3.0363e1c9.chunk.js.map",
     "index.html": "/FatherBirth/index.html",
     "static/css/main.7c2a6778.chunk.css.map": "/FatherBirth/static/css/main.7c2a6778.chunk.css.map",
-    "static/js/2.031dedb3.chunk.js.LICENSE.txt": "/FatherBirth/static/js/2.031dedb3.chunk.js.LICENSE.txt",
+    "static/js/2.083a0385.chunk.js.LICENSE.txt": "/FatherBirth/static/js/2.083a0385.chunk.js.LICENSE.txt",
     "static/media/father.ff0c2b0f.png": "/FatherBirth/static/media/father.ff0c2b0f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.41607f62.js",
-    "static/js/2.031dedb3.chunk.js",
+    "static/js/2.083a0385.chunk.js",
     "static/css/main.7c2a6778.chunk.css",
-    "static/js/main.c313ee81.chunk.js"
+    "static/js/main.f6e6ec92.chunk.js"
   ]
 }
