@@ -1,6 +1,6 @@
 import React from 'react'
 import { Fade } from "react-awesome-reveal";
-import image from "../../images/father.png";
+import image from "../../images/father2.png";
 import "../../css/index.css";
 
 
