@@ -1,14 +1,14 @@
 import React from 'react'
-
 import { Fade } from "react-awesome-reveal";
+import image from "../../images/father.png";
+import "../../css/index.css";
+
 
 function FirstComponent() {
     return (
         <div>
             <Fade cascade>
-                <p>I enter first...</p>
-                <p>...then comes my turn...</p>
-                <p>...and finally you see me!</p>
+                <img src={image} className="test"></img>
             </Fade>
         </div>
     )

@@ -1,5 +1,4 @@
 import React from 'react'
-import { WinGrid, WinItem } from 'react-win-grid';
 
 function ThirdComponent() {
     return (
