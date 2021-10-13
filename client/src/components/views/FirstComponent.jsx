@@ -1,6 +1,5 @@
 import React from 'react'
 import { Fade } from "react-awesome-reveal";
-import image from "../../images/father2.jpg";
 import "../../css/index.css";
 
 
@@ -8,7 +7,7 @@ function FirstComponent() {
     return (
         <div>
             <Fade cascade>
-                <img src={image} className="test"></img>
+                <img src="https://i.ibb.co/x3rzrW4/father.png" className="test"></img>
             </Fade>
         </div>
     )
