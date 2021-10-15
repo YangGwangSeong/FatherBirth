@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/FatherBirth/static/css/main.b161aa11.chunk.css",
-    "main.js": "/FatherBirth/static/js/main.cff7d38d.chunk.js",
-    "main.js.map": "/FatherBirth/static/js/main.cff7d38d.chunk.js.map",
+    "main.css": "/FatherBirth/static/css/main.f4de70a2.chunk.css",
+    "main.js": "/FatherBirth/static/js/main.4b97ff8a.chunk.js",
+    "main.js.map": "/FatherBirth/static/js/main.4b97ff8a.chunk.js.map",
     "runtime-main.js": "/FatherBirth/static/js/runtime-main.9cf79dfa.js",
     "runtime-main.js.map": "/FatherBirth/static/js/runtime-main.9cf79dfa.js.map",
     "static/js/2.498c5394.chunk.js": "/FatherBirth/static/js/2.498c5394.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.768b478f.chunk.js": "/FatherBirth/static/js/3.768b478f.chunk.js",
     "static/js/3.768b478f.chunk.js.map": "/FatherBirth/static/js/3.768b478f.chunk.js.map",
     "index.html": "/FatherBirth/index.html",
-    "static/css/main.b161aa11.chunk.css.map": "/FatherBirth/static/css/main.b161aa11.chunk.css.map",
+    "static/css/main.f4de70a2.chunk.css.map": "/FatherBirth/static/css/main.f4de70a2.chunk.css.map",
     "static/js/2.498c5394.chunk.js.LICENSE.txt": "/FatherBirth/static/js/2.498c5394.chunk.js.LICENSE.txt",
     "static/media/reset.css": "/FatherBirth/static/media/SSRock.17efea81.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.9cf79dfa.js",
     "static/js/2.498c5394.chunk.js",
-    "static/css/main.b161aa11.chunk.css",
-    "static/js/main.cff7d38d.chunk.js"
+    "static/css/main.f4de70a2.chunk.css",
+    "static/js/main.4b97ff8a.chunk.js"
   ]
 }
