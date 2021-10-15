@@ -1,0 +1,62 @@
+.Third__Wrap{
+    
+    background: url(https://i.ibb.co/3Sm5RJg/pexels-kaique-rocha-775203.jpg);
+    
+    height: 100%;
+}
+
+
+.greeting_box{
+    background-color: rgba(255, 255, 255, 0.9);
+    /*height: calc(100% - 10% );*/
+    height: 100%;
+    -webkit-box-shadow: 0 5px 5px rgb(0 0 0 / 20%);
+    box-shadow: 0 5px 5px rgb(0 0 0 / 20%);
+    opacity: 0.5;
+    font-family: 'Noto Serif KR','Noto Serif','맑은 고딕','돋움',Dotum,'굴림',Gulim, Helvetica, sans-serif;
+}
+.Third__Contents_Title{
+    position: relative;
+    width:50%;
+    display: block;
+    margin: 0 auto 40px;
+    padding: 0 0 20px;
+    padding-top: 60px;
+    font-size: 1.1em;
+    color: #444;
+    font-weight: 600;
+    line-height: 1.2;
+    border-bottom: 1px solid #444;
+    text-align:center;
+}
+.Third__Contents__detail{
+    font-size: 0.9em;
+    line-height: 1.8;
+    word-break: break-word;
+    color: #000;
+    text-align: center;
+    font-weight: 300;
+}
+
+/*
+https://i.ibb.co/3yyYxTK/light-lake-stars.jpg
+https://i.ibb.co/zS16qZq/boy-park-balloon.jpg
+*/
+
+/*
+.Third__Wrap{
+    height: 100%;
+    background: url(https://i.ibb.co/3Sm5RJg/pexels-kaique-rocha-775203.jpg);
+}
+
+
+.greeting_box{
+   height: calc(100% - 10% );
+    background-color: rgba(255, 255, 255, 0.9);
+    -webkit-box-shadow: 0 5px 5px rgb(0 0 0 / 20%);
+    box-shadow: 0 5px 5px rgb(0 0 0 / 20%);
+    padding:1.2rem;
+    opacity: 0.5;
+    font-family: 'Noto Serif KR','Noto Serif','맑은 고딕','돋움',Dotum,'굴림',Gulim, Helvetica, sans-serif;
+}
+*/

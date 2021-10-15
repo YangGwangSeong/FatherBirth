@@ -1,15 +1,17 @@
 import React from 'react'
-import { Fade } from "react-awesome-reveal";
 import "../../css/index.css";
-
+import { Fade } from "react-awesome-reveal";
 
 function FirstComponent() {
     return (
-        <div>
-            <Fade cascade>
+        <Fade className="h-100">
+            <div className="h-100">
                 <img src="https://i.ibb.co/x3rzrW4/father.png" className="test"></img>
-            </Fade>
-        </div>
+                {/* <a className="to-top"><span></span>&nbsp;</a>
+                <a className="to-bottom"><span></span>&nbsp;</a> */}
+                <a href="#"><span></span><span></span><span></span></a>
+            </div>
+        </Fade>
     )
 }
 

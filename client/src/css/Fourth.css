@@ -1,0 +1,59 @@
+/* https://i.ibb.co/J5kNwy2/white-wall-plaster.jpg" */
+/* https://i.ibb.co/4VxMPZD/tit-location.png */
+.Fourth__Wrap{
+    background: url(https://i.ibb.co/J5kNwy2/white-wall-plaster.jpg);
+    height: 100%;
+    font-family:"SSRock";
+}
+.Fourth__Title_img{
+    width:50%;
+    height:100%;
+}
+.Fourth_Title{
+    padding-top: 60px;
+    height: 100px;
+    text-align: center;
+    margin-bottom:30px;
+}
+.Fourth__detail{
+    color: #666;
+    margin-top:10px;
+    font-weight:500;
+    font-size:1.2rem;
+    margin-left: 1.2rem;
+}
+.Fourth__Map{
+    width:80%;
+    height:30%;
+    margin-top:10px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.Fourth__addr_title{
+    margin-top:20px;
+    color: #666;
+    padding-bottom: 2px;
+    border-bottom: 1px solid #666;
+    margin-left: 1.2rem;
+    width:10%;
+    font-weight: 300;
+}
+.Fourth__addr_detail{
+    margin-top:10px;
+    color: #666;
+    margin-left: 1.2rem;
+}
+.Fourth__phone_title{
+    margin-top:20px;
+    color: #666;
+    padding-bottom: 2px;
+    border-bottom: 1px solid #666;
+    margin-left: 1.2rem;
+    width:20%;
+    font-weight: 300;
+}
+.Fourth__phone_detail{
+    margin-top:10px;
+    color: #666;
+    margin-left: 1.2rem;
+}
